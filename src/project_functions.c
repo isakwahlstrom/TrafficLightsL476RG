@@ -6,8 +6,8 @@
 @author  Isak Wahlström
 @version 1.0
 @date    30-11/2022
-@brief   Functions and structures for program project.
-******************************************************************************
+@brief   Functions and structures for pedestrian lights
+****************************************************************************
 */
 #include "main.h"
 #include "gpio.h"
