@@ -5,7 +5,7 @@
 @author  Isak Wahlström
 @version 1.0
 @date    30-11/2022
-@brief   task1 for the project IS1300 course
+@brief   The program for pedestrian lights with state machine
 ******************************************************************************
 */
 
